@@ -51,7 +51,7 @@ FarmEasy allows farmers to:
 
 ** Pitch Deck **
 
-[Here](https://docs.google.com/presentation/d/1GtONPZTy0L1NYfL7U8kYwZS5l0zROLOv88ZkmRS3wpo/edit?usp=sharing)
+[Here](https://docs.google.com/presentation/d/14QvaL56EvtFxtFBZsejnvHS39i0CQGdZwoZaFgfNalc/edit?usp=sharing)
 
 ** Demo Video **
 [Here](https://drive.google.com/open?id=10IrccQrvZJfdXKv7qql-zbCfxMek8Fcz)
