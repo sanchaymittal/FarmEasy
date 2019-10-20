@@ -1,0 +1,82 @@
+sanchaymittal@sanchaymittal-Jarvis:~/FarmEasy$ truffle migrate --reset
+
+Compiling your contracts...
+===========================
+> Everything is up to date, there is nothing to compile.
+
+
+
+Starting migrations...
+======================
+> Network name:    'development'
+> Network id:      1571564026712
+> Block gas limit: 0x6691b7
+
+
+1_initial_migration.js
+======================
+
+   Replacing 'Migrations'
+   ----------------------
+   > transaction hash:    0x02824a3fc6aaef3425325d01d1314f613596c7bac7124e562d800cf7f3cac8e2
+   > Blocks: 0            Seconds: 0
+   > contract address:    0xDB4b36deab47c43f1b7974209F8EfF32172F186c
+   > block number:        19
+   > block timestamp:     1571566416
+   > account:             0xE7E36c35a81d9F0CcC5B7EF5af2C376c88517AA6
+   > balance:             99.94015726
+   > gas used:            261393
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00522786 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.00522786 ETH
+
+
+2_deploy_contracts.js
+=====================
+
+   Deploying 'SafeMath'
+   --------------------
+   > transaction hash:    0x7160e19ef444500b977caa71215d2b8efbc11fd8ec63cd61f1c3989e4564e70f
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x22d038Dfe3476C8d8b0F5dbE715b831AA77B4Bd0
+   > block number:        21
+   > block timestamp:     1571566417
+   > account:             0xE7E36c35a81d9F0CcC5B7EF5af2C376c88517AA6
+   > balance:             99.93783068
+   > gas used:            74306
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00148612 ETH
+
+
+   Deploying 'FarmEasy'
+   --------------------
+   > transaction hash:    0xc3505a8105dab573c2d52975773a59479b04df0f41d7e1bacd970c721b5f3d2a
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x55794cd9703ACe47f0aA8FDF6225bdDF9e8E0671
+   > block number:        22
+   > block timestamp:     1571566417
+   > account:             0xE7E36c35a81d9F0CcC5B7EF5af2C376c88517AA6
+   > balance:             99.89617508
+   > gas used:            2082780
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.0416556 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.04314172 ETH
+
+
+Summary
+=======
+> Total deployments:   3
+> Final cost:          0.04836958 ETH
