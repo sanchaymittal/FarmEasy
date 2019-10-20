@@ -2,5 +2,5 @@
 
 https://docs.google.com/forms/d/1NQZ6Db3ZtVhrGUrw7SROLaKn8Y4DDcwDqN_IZzAUaSA/viewanalytics
 
-More readable format:
+More readable format: Visit the Images folder
 
