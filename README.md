@@ -1,6 +1,10 @@
 # FarmEasy
 Decentralized Online MarketPlace: Connecting Remote Farmers with Investors via WW3 
 
+The contract is deployed on Kovan.
+Old_Contracts on Matic: 0x1aFdDf0737A134359Bf2C5CF152Bb8a729B6959c
+New_Contracts on Matic: 0x72C30b6B7AB8dF7dAead93242d613BcD4d401621
+
 ## Project Summary
 
 FarmEasy allows farmers to: 
@@ -29,7 +33,6 @@ FarmEasy allows farmers to:
 
 * Sanchay Mittal 
 * Sachin Mittal 
-
 * Reach out to us at - info.trellislabs@gmail.com
 
 ## Deliverables

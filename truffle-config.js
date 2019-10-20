@@ -1,21 +1,28 @@
+const path = require("path");
 var HDWalletProvider = require("truffle-hdwallet-provider");
-
+data = "3BE52D87BE2A210E768FB420590222482AB61305B406B9F7D630AD3A95D71331"
 module.exports = {
-  migrations_directory: "./migrations",
+  // See <http://truffleframework.com/docs/advanced/configuration>
+  // to customize your Truffle configuration!
+  contracts_build_directory: path.join(__dirname, "src/contracts"),
   networks: {
-    // development: {
-    //   host: "localhost",
-    //   port: 8545,
-    //   network_id: "*" // Match any network id
-    // },
-    // ropsten: {
-    //   provider: () => new HDWalletProvider(mnemonic, `https://ropsten.infura.io/v3/0bd3920316e94e9ca331d62dbe7b0eb6`),
-    //   network_id: 3,       // Ropsten's id
-    //   gas: 5500000,        // Ropsten has a lower block limit than mainnet
-    //   confirmations: 2,    // # of confs to wait between deployments. (default: 0)
-    //   timeoutBlocks: 200,  // # of blocks before a deployment times out  (minimum/default: 50)
-    //   skipDryRun: true     // Skip dry run before migrations? (default: false for public nets )
-    // }
+    develop: {
+      host: '127.0.0.1',
+      port: 8545,
+      network_id: '*',
+    },
+    ropsten: {
+      provider: function() {
+        return new HDWalletProvider(data, "https://ropsten.infura.io/v3/46770654a6f6479489228ef81a5b797a")
+      },
+      network_id: 3
+    },
+    kovan: {
+      provider: function() {
+        return new HDWalletProvider(data, "https://kovan.infura.io/v3/46770654a6f6479489228ef81a5b797a")
+      },
+      network_id: 42
+    },
     matic: {
       provider: function () {
         return new HDWalletProvider(
