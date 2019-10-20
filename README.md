@@ -4,7 +4,8 @@ Decentralized Online MarketPlace: Connecting Remote Farmers with Investors via W
 ## Project Summary
 
 FarmEasy allows farmers to: 
-**connect with buyers and investors via whatsapp, the farmer can register his/her farm, products upload products, view product listings,**
+**connect with buyers and investors via whatsapp,**
+**the farmer can register his/her farm, products upload products, view product listings,Borrow money from the investors, **
 
 #### Banking the Unbanked - 
 
@@ -24,8 +25,21 @@ FarmEasy allows farmers to:
 * Sell-Order (At farmer proposed price)
 * Buy-Order ( At Investor proposed price)
 
+### Project Team 
 
+* Sanchay Mittal 
+* Sachin Mittal 
 
-## Pitch Deck
+* Reach out to us at - info.trellislabs@gmail.com
+
+## Deliverables
+
+**Pitch Deck
 
 https://docs.google.com/presentation/d/1GtONPZTy0L1NYfL7U8kYwZS5l0zROLOv88ZkmRS3wpo/edit?usp=sharing
+
+**Demo Video
+[ ]
+
+
+
