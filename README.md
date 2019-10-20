@@ -37,12 +37,12 @@ FarmEasy allows farmers to:
 
 ## Deliverables
 
-**Pitch Deck
+** Pitch Deck **
 
-https://docs.google.com/presentation/d/1GtONPZTy0L1NYfL7U8kYwZS5l0zROLOv88ZkmRS3wpo/edit?usp=sharing
+[Here](https://docs.google.com/presentation/d/1GtONPZTy0L1NYfL7U8kYwZS5l0zROLOv88ZkmRS3wpo/edit?usp=sharing)
 
-**Demo Video
-[ ]
+** Demo Video **
+[Here](https://drive.google.com/open?id=10IrccQrvZJfdXKv7qql-zbCfxMek8Fcz)
 
 
 
