@@ -38,6 +38,15 @@ FarmEasy allows farmers to:
 * Sachin Mittal 
 * Reach out to us at - info.trellislabs@gmail.com
 
+## Project Launch Page
+
+**FarmEasy Whatsapp No: +1 415 523 8886 
+**send a prompt- "join move-earlier" after adding above number to be added to a sandbox. 
+**congratulations you're now connected to FarmEasy
+**To get started send "Menu" on FarmEasy 
+**Follow the prompt
+
+
 ## Deliverables
 
 ** Pitch Deck **
