@@ -1,4 +1,5 @@
 # FarmEasy
+#### Fintech Solutions To Support The Agricultural Sector
 Decentralized Online MarketPlace: Connecting Remote Farmers with Investors via WW3 
 
 The contract is deployed on Kovan.
