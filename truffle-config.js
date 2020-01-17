@@ -19,7 +19,7 @@ module.exports = {
     },
     kovan: {
       provider: function() {
-        return new HDWalletProvider(data, "https://kovan.infura.io/v3/46770654a6f6479489228ef81a5b797a")
+        return new HDWalletProvider(data, "https://kovan.infura.io/v3/f0602f10d7ad4f5c807130e6e1d58f8b")
       },
       network_id: 42
     },
