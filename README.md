@@ -36,7 +36,7 @@ FarmEasy allows farmers to:
 
 * Sanchay Mittal 
 * Sachin Mittal 
-* Reach out to us at - info.trellislabs@gmail.com
+* Reach out to us at - labs.ethify@gmail.com
 
 ## Project Launch Page
 
