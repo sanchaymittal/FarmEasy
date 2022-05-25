@@ -30,7 +30,7 @@ parsimonious==0.8.1
 pkg-resources==0.0.0
 protobuf==3.10.0
 pycryptodome==3.9.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyrsistent==0.15.4
 PySocks==1.7.1
 pytz==2019.3
